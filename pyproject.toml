@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "wfork-streamlit-profiler"
-version = "0.2.8-rc4"
+version = "0.2.8-rc5"
 description = "(fork of) Runtime profiler for Streamlit, powered by pyinstrument"
-authors = ["Johannes Rieke <johannes.rieke@gmail.com>", "Wyatt S Carpenter"]
+authors = ["Wyatt S Carpenter", "Johannes Rieke <johannes.rieke@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/wyattscarpenter/streamlit-profiler"
